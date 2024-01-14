@@ -152,9 +152,11 @@
 /* section instagram  */
 .text-des {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 .insta {
+
     margin-bottom: -10px;
     color: #272727;
     text-align: center;
@@ -166,8 +168,10 @@
 }
 
 .box-container {
+
     display: flex;
     justify-content: space-around;
+
 }
 
 .box {
@@ -196,6 +200,7 @@
     text-align: center;
     padding-top: 70px;
     padding: 10px;
+    border-radius: 5px;
 }
 
 .in {
@@ -214,4 +219,30 @@
     background: #E55473;
     color: white;
     padding: 8px;
+    border-radius: 5px;
+}
+
+/* footer  */
+/* .footer{
+    margin-top: 20px;
+} */
+.footer {
+
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: black;
+    height: 70vh;
+}
+
+
+.tittle {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer-text{
+    color: white;
 }
