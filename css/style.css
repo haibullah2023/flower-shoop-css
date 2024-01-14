@@ -1,0 +1,82 @@
+.parent-container {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.text-container {
+    padding-top: 170px;
+    padding-left: 120px;
+    padding-right: 100px;
+
+    align-items: center;
+}
+
+.title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.btn {
+    padding: 5px;
+    background: #E55473;
+    color: white;
+}
+
+.image {
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* flower feature  */
+.feature-title {
+    margin-top: -20;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.feature-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+
+}
+
+.img-container {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 50px;
+    gap: 20px;
+}
+
+.img-1 {
+    width: 464px;
+    height: 538px;
+    
+    
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.habib{
+    padding: 70px;
+    margin-top: 40px;
+   
+}
+.sakil {
+    padding-top: 65px;
+    padding-left: 70px;
+}
