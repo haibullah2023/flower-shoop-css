@@ -150,4 +150,68 @@
 }
 
 /* section instagram  */
+.text-des {
+    text-align: center;
+}
 
+.insta {
+    margin-bottom: -10px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    width: 342px;
+    height: 396px;
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+    margin: 10px
+}
+
+.box img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* fift section  */
+.bg-img-container {
+    background-image: url('/Flower Asset/Rectangle\ 9.png');
+    height: 70vh;
+}
+
+.text-field {
+    text-align: center;
+    padding-top: 70px;
+    padding: 10px;
+}
+
+.in {
+    padding: 8px;
+}
+
+.habib {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 540px;
+    padding-top: 50px;
+}
+
+.btttn {
+    background: #E55473;
+    color: white;
+    padding: 8px;
+}
